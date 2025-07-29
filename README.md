@@ -14,6 +14,13 @@ This project applies **transfer learning** using a pre-trained **VGG16** model t
 
 - 2 classes: `cats`, `dogs`
 
+
+## 📎 Links
+
+- 📁 [Kaggle Notebook (Source Code)](https://www.kaggle.com/code/khoibuivn/vgg16-transfer-learning-cag-dog-classification)
+- 🐱 [Dataset on Kaggle](https://www.kaggle.com/datasets/vrajesh0sharma7/cat-vs-dog-classification/data)
+
+
 ## 🚀 Approach
 
 - Model: Pretrained `VGG16` from PyTorch's `torchvision.models`, with the classifier head replaced.
@@ -47,11 +54,6 @@ Training and validation metrics are plotted over epochs to visualize performance
 - PyTorch, Torchvision
 - Matplotlib, NumPy, tqdm
 - Jupyter / Kaggle Notebook environment
-
-## 📎 Links
-
-- 📁 [Kaggle Notebook (Source Code)](https://www.kaggle.com/code/khoibuivn/vgg16-transfer-learning-cag-dog-classification)
-- 🐱 [Dataset on Kaggle](https://www.kaggle.com/datasets/vrajesh0sharma7/cat-vs-dog-classification/data)
 
 ## 🛠️ How to Run
 
